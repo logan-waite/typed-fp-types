@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
